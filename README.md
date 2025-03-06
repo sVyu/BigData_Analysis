@@ -1,5 +1,5 @@
-### ? BigData Analysis Project (A+)
-- `ipnyb` ÆÄÀÏÀ» ÅëÇØ Preview·Î ³»¿ëÀ» È®ÀÎÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù
+### ğŸ“š BigData Analysis Project (A+)
+- `ipnyb` íŒŒì¼ì„ í†µí•´ Previewë¡œ ë‚´ìš©ì„ í™•ì¸í•˜ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤
 - Tech Stack
     - <sub><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></sub>
     - Numpy
